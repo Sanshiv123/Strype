@@ -1,3 +1,17 @@
+## Gamification Extension — KCL Dissertation (Sanchusri Kavitha Babu)
+
+This branch extends the base Strype platform with a full gamification system built as part of my undergraduate dissertation at King's College London.
+
+**What I built:**
+- Badge logic and rule-based point progression driven by coding activity and milestones
+- Real-time progress tracking dashboard for learners
+- Engagement metrics system tracking streaks, completions, and usage patterns
+- Evaluated through 20+ user studies; findings documented in 25,000-word dissertation
+
+**Tech stack:** Vue.js, TypeScript, Node.js
+
+**Live platform:** strype.org
+
 <img src="public/favicon.png" width="64" align="left">
 
 # Strype
